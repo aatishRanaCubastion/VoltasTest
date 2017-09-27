@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">V-MApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="spinner_part_category">Select Part Category</string>
+    <string-array name="Parts">
+        <item>Select Part Category</item>
+        <item>Accessories</item>
+        <item>Comp_Acc</item>
+        <item>Capillary</item>
+        <item>Sheet Metal Parts</item>
+        <item>Condensor Coil</item>
+        <item>Electrical Spares</item>
+        <item>Compressor</item>
+        <item>Copper Pipe</item>
+        <item>Sensor</item>
+        <item>PCB</item>
+        <item>Fan Blade</item>
+        <item>Motor</item>
+        <item>Flare Nut</item>
+        <item>Capacitor</item>
+        <item>Packing</item>
+        <item>PFC Coil</item>
+        <item>Valve</item>
+        <item>Blower</item>
+        <item>Chasis</item>
+        <item>Evaporator Coil</item>
+        <item>Drain Tray</item>
+        <item>Front Panel</item>
+        <item>Plastics</item>
+        <item>Louver Motor</item>
+        <item>Remote</item>
+        <item>Drain Pipe</item>
+        <item>Thermostat</item>
+        <item>Coil</item>
+        <item>Cabinet</item>
+        <item>Capillary/Filter drier</item>
+        <item>Door</item>
+        <item>Glass</item>
+        <item>Stabilizer</item>
+        <item>Tank</item>
+        <item>Adaptor</item>
+        <item>Tap</item>
+        <item>Electrical Accessories</item>
+    </string-array>
+</resources>

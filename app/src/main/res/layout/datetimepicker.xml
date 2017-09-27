@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <DatePicker
+            android:id="@+id/dtpicker_datePicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scaleX="0.9"
+            android:scaleY="0.9" />
+
+
+        <TimePicker
+              android:id="@+id/dtpicker_timePicker"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center_horizontal"
+              android:scaleX="0.9"
+              android:scaleY="0.9" />
+
+
+        <Button
+            android:id="@+id/dtpicker_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/login_btn_background"
+            android:gravity="center"
+            android:text="Pick Date and Time" />
+
+    </LinearLayout>
+</ScrollView>
